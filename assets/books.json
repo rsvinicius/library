@@ -1,0 +1,62 @@
+[
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "pages": 295,
+        "isRead": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": 328,
+        "isRead": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 281,
+        "isRead": true
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "pages": 279,
+        "isRead": false
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "pages": 585,
+        "isRead": false
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "pages": 180,
+        "isRead": true
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "pages": 268,
+        "isRead": false
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "pages": 214,
+        "isRead": true
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "pages": 158,
+        "isRead": false
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "pages": 208,
+        "isRead": true
+    }
+]
