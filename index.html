@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/7736a75adc.js" crossorigin="anonymous"></script>
     <title>Document</title>
 </head>
 
@@ -17,9 +18,51 @@
         <section class="books">
             <ul class="books__list"></ul>
         </section>
+        <dialog>
+            <div class="modal">
+                <button class="close-btn" aria-label="Close">×</button>
+                <form action="dialog">
+                    <p id="form-title">Let's add a new book!</p>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="title">Title:</label>
+                            <input type="text" id="title" name="title" autofocus required>
+                        </div>
+                        <div class="form-group">
+                            <label for="author">Author:</label>
+                            <input type="text" id="author" name="author" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="pages">Pages:</label>
+                            <input type="number" id="pages" name="pages" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="status">Status:</label>
+                            <select id="status" name="status">
+                                <option value="default">Not Read</option>
+                                <option>Reading</option>
+                                <option>Read</option>
+                            </select>
+                        </div>
+                        <button id="new-book-btn" type="submit">Add Book</button>
+                    </div>
+                </form>
+            </div>
+        </dialog>
+        <button class="add-btn">+</button>
     </main>
     <footer>
-        <p>© All rights reserved.</p>
+        <p>
+            Copyright ©
+            <script>
+                document.write(new Date().getFullYear())
+            </script>
+            rsvinicius
+        </p>
+        <a href="https://github.com/rsvinicius" target="_blank">
+            <i class="fa-brands fa-github"></i>
+        </a>
+
     </footer>
     <script src="script.js"></script>
 </body>

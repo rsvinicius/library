@@ -3,60 +3,60 @@
         "title": "The Hobbit",
         "author": "J.R.R. Tolkien",
         "pages": 295,
-        "isRead": true
+        "status": "Read"
     },
     {
         "title": "1984",
         "author": "George Orwell",
         "pages": 328,
-        "isRead": true
+        "status": "Read"
     },
     {
         "title": "To Kill a Mockingbird",
         "author": "Harper Lee",
         "pages": 281,
-        "isRead": true
+        "status": "Read"
     },
     {
         "title": "Pride and Prejudice",
         "author": "Jane Austen",
         "pages": 279,
-        "isRead": false
+        "status": "Not Read"
     },
     {
         "title": "Moby Dick",
         "author": "Herman Melville",
         "pages": 585,
-        "isRead": false
+        "status": "Not Read"
     },
     {
         "title": "The Great Gatsby",
         "author": "F. Scott Fitzgerald",
         "pages": 180,
-        "isRead": true
+        "status": "Read"
     },
     {
         "title": "Brave New World",
         "author": "Aldous Huxley",
         "pages": 268,
-        "isRead": false
+        "status": "Not Read"
     },
     {
         "title": "The Catcher in the Rye",
         "author": "J.D. Salinger",
         "pages": 214,
-        "isRead": true
+        "status": "Read"
     },
     {
         "title": "Fahrenheit 451",
         "author": "Ray Bradbury",
         "pages": 158,
-        "isRead": false
+        "status": "Not Read"
     },
     {
         "title": "The Alchemist",
         "author": "Paulo Coelho",
         "pages": 208,
-        "isRead": true
+        "status": "Reading"
     }
 ]
