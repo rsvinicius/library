@@ -4,7 +4,7 @@ This documentation provides an brief overview of the **Library App**, a project 
 
 ## Live Demo
 
-A live demo of the project is available at: [Tic Tac Toe](https://rsvinicius.github.io/library/)
+A live demo of the project is available at: [Library App Demo](https://rsvinicius.github.io/library/)
 
 ## Features
 
